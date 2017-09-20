@@ -1,0 +1,8 @@
+C:\1_x\C# проги\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\1_x\C# проги\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\1_x\C# проги\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\1_x\C# проги\ConsoleApp1\ConsoleApp1\bin\Debug\HtmlAgilityPack.dll
+C:\1_x\C# проги\ConsoleApp1\ConsoleApp1\bin\Debug\HtmlAgilityPack.pdb
+C:\1_x\C# проги\ConsoleApp1\ConsoleApp1\bin\Debug\HtmlAgilityPack.xml
+C:\1_x\C# проги\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\1_x\C# проги\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
